@@ -1,0 +1,8 @@
+{
+  "version": "1.0.18",
+  "download_url": "https://geraldferreira.com/g_updates/g_ultimateseo.zip",
+  "requires": "5.0",
+  "tested": "6.5",
+  "requires_php": "7.4",
+  "upgrade_notice": "We've improved performance, fixed minor bugs, and added new schema options for better SEO results. Please update to benefit from these improvements."
+}
