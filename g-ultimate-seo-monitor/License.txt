@@ -1,0 +1,34 @@
+G Ultimate SEO Monitor Proprietary License
+Version 1.0, April 2025
+
+Copyright (c) 2025 Gerald Ferreira. All rights reserved.
+
+1. Grant of License
+   This software, G Ultimate SEO Monitor ("Software"), is proprietary to Gerald Ferreira. Subject to the terms of this License, Gerald Ferreira grants you a non-exclusive, non-transferable, revocable license to use the Software solely for your internal business purposes, provided you have purchased a valid license.
+
+2. Restrictions
+   You may not:
+   - Modify, adapt, translate, or create derivative works of the Software.
+   - Reverse-engineer, decompile, disassemble, or attempt to derive the source code of the Software.
+   - Distribute, sublicense, lease, rent, loan, or otherwise transfer the Software to any third party.
+   - Remove, alter, or obscure any copyright, trademark, or proprietary notices in the Software.
+
+3. Ownership
+   The Software is licensed, not sold. Gerald Ferreira retains all right, title, and interest in and to the Software, including all intellectual property rights.
+
+4. Termination
+   This License is effective until terminated. Gerald Ferreira may terminate this License immediately if you breach any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+5. No Warranty
+   The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. Gerald Ferreira does not warrant that the Software will be error-free or uninterrupted.
+
+6. Limitation of Liability
+   In no event shall Gerald Ferreira be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data, arising out of or in connection with the use of the Software, even if advised of the possibility of such damages.
+
+7. Governing Law
+   This License shall be governed by and construed in accordance with the laws of [Your Jurisdiction, e.g., South Africa], without regard to its conflict of law principles.
+
+8. Contact
+   For questions about this License, contact Gerald Ferreira at https://geraldferreira.com.
+
+End of License

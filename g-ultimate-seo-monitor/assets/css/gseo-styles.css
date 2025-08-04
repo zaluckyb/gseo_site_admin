@@ -1,0 +1,34 @@
+.gseo-url-row td, .gseo-section-headers th {
+    background: #f3f3f3; 
+    font-weight: 600; 
+    padding: 8px;
+}
+
+.gseo-settings-list, .gseo-csp-list {
+    list-style: none; 
+    margin: 0; 
+    padding: 0;
+}
+
+.gseo-settings-list li, .gseo-csp-list li {
+    padding: 5px; 
+    border-bottom: 1px solid #e0e0e0; 
+    display: flex;
+}
+
+.gseo-label, .gseo-csp-directive {
+    flex: 1;
+    font-weight: bold; /* makes the CSP directive keys bold */
+}
+
+.gseo-status, .gseo-csp-status {
+    width: 30px; 
+    text-align: center;
+}
+
+.gseo-csp-value {
+    padding-left: 25px; 
+    color: #444; 
+    font-size: 90%; 
+    font-style: italic;
+}
